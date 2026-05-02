@@ -3,6 +3,12 @@
 A premium Streamlit application for **Answer Engine Optimization (AEO)** analysis.  
 It evaluates how well a brand appears across AI assistants and generates an actionable strategy brief.
 
+## Project Screenshots
+
+![Project Screenshot 1](project-screenshots/project-screenshot-fe12e036.png)
+![Project Screenshot 2](project-screenshots/project-screenshot-c37db13e.png)
+![Project Screenshot 3](project-screenshots/project-screenshot-66663cd1.png)
+
 ## Overview
 
 This app analyzes a product query against:
